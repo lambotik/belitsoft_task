@@ -1,0 +1,104 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "test_books",
+    "children" : [ {
+      "name" : "TestTasks",
+      "children" : [ {
+        "name" : "Add books.",
+        "uid" : "26be706fff445444",
+        "parentUid" : "030588d33f64ac042e7becf6d7fab9d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913339222,
+          "stop" : 1718913339247,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Obtaining a list of all books.",
+        "uid" : "9dedf36f274513b5",
+        "parentUid" : "030588d33f64ac042e7becf6d7fab9d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913339271,
+          "stop" : 1718913339272,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Obtaining information about the book on ID (positive).",
+        "uid" : "24c6e4ca3375f963",
+        "parentUid" : "030588d33f64ac042e7becf6d7fab9d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913339275,
+          "stop" : 1718913339275,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Obtaining information about the book on ID (negative).",
+        "uid" : "7c2fce1f104fa40d",
+        "parentUid" : "030588d33f64ac042e7becf6d7fab9d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913339278,
+          "stop" : 1718913339278,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Updating information about the book on ID.",
+        "uid" : "722528c1429e1728",
+        "parentUid" : "030588d33f64ac042e7becf6d7fab9d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913339280,
+          "stop" : 1718913339283,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Removing the book on ID.",
+        "uid" : "b3d48ab83e436c7a",
+        "parentUid" : "030588d33f64ac042e7becf6d7fab9d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913339285,
+          "stop" : 1718913339288,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Delete all information from the table.",
+        "uid" : "c87f9b5739e0266",
+        "parentUid" : "030588d33f64ac042e7becf6d7fab9d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913339290,
+          "stop" : 1718913339294,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "030588d33f64ac042e7becf6d7fab9d0"
+    } ],
+    "uid" : "c36b0fa0d94d6bd336e7d31433aab33b"
+  } ],
+  "name" : "suites"
+}
