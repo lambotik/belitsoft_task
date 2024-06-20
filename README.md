@@ -10,4 +10,4 @@ Generating test reports in Allure report
 ___
 * To run test in GitHub Actions click button: [![Run workflows](https://img.shields.io/badge/Run%20workflows-grey)](https://github.com/lambotik/belitsoft_task/actions/workflows/allure-report.yml) after button [![Run workflows](https://img.shields.io/badge/Run%20workflows-green)](https://github.com/lambotik/belitsoft_task/actions/workflows/allure-report.yml)
 * To view the current test report, click the
-  button: [![Allure Report](https://img.shields.io/badge/Allure%20Report-deployed-green)](https://lambotik.github.io/belitsoft_task/)
+  button: [![Allure Report](https://img.shields.io/badge/Allure%20Report-deployed-orange)](https://lambotik.github.io/belitsoft_task/)
