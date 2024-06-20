@@ -1,0 +1,156 @@
+{
+  "uid" : "4706a19e5c1e910c",
+  "name" : "Delete all information from the table.",
+  "fullName" : "test_books.TestTasks#test_clear_table",
+  "historyId" : "003a291726bcdb7642e35a5deb97675f",
+  "time" : {
+    "start" : 1718912988543,
+    "stop" : 1718912988545,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "table",
+    "time" : {
+      "start" : 1718912988543,
+      "stop" : 1718912988543,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1718912988477,
+      "stop" : 1718912988495,
+      "duration" : 18
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "DELETE FROM books where BookID > 0;",
+      "time" : {
+        "start" : 1718912988543,
+        "stop" : 1718912988543,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "UPDATE SQLITE_SEQUENCE SET seq = 0 WHERE name = \"books\";",
+      "time" : {
+        "start" : 1718912988544,
+        "stop" : 1718912988544,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT * FROM books;",
+      "time" : {
+        "start" : 1718912988545,
+        "stop" : 1718912988545,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "table::0",
+    "time" : {
+      "start" : 1718912988545,
+      "stop" : 1718912988545,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "Sqlite task."
+  }, {
+    "name" : "suite",
+    "value" : "test_books"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTasks"
+  }, {
+    "name" : "host",
+    "value" : "fv-az1144-82"
+  }, {
+    "name" : "thread",
+    "value" : "2262-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_books"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4706a19e5c1e910c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,100 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "test_books",
+    "children" : [ {
+      "name" : "Add books.",
+      "uid" : "c6b76c2baa64d007",
+      "parentUid" : "df78293abc7c5733108b1974d459c595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718912988501,
+        "stop" : 1718912988515,
+        "duration" : 14
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Obtaining a list of all books.",
+      "uid" : "f32c135e3931c7d8",
+      "parentUid" : "df78293abc7c5733108b1974d459c595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718912988530,
+        "stop" : 1718912988530,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Obtaining information about the book on ID (positive).",
+      "uid" : "17594963caf91aa9",
+      "parentUid" : "df78293abc7c5733108b1974d459c595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718912988532,
+        "stop" : 1718912988532,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Obtaining information about the book on ID (negative).",
+      "uid" : "55a571ebd75931",
+      "parentUid" : "df78293abc7c5733108b1974d459c595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718912988535,
+        "stop" : 1718912988535,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Updating information about the book on ID.",
+      "uid" : "8da653904a2e11d3",
+      "parentUid" : "df78293abc7c5733108b1974d459c595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718912988537,
+        "stop" : 1718912988538,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Removing the book on ID.",
+      "uid" : "7b8d1916ba7d0e6d",
+      "parentUid" : "df78293abc7c5733108b1974d459c595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718912988540,
+        "stop" : 1718912988541,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Delete all information from the table.",
+      "uid" : "4706a19e5c1e910c",
+      "parentUid" : "df78293abc7c5733108b1974d459c595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718912988543,
+        "stop" : 1718912988545,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "df78293abc7c5733108b1974d459c595"
+  } ],
+  "name" : "packages"
+}

@@ -1,0 +1,156 @@
+{
+  "uid" : "7b8d1916ba7d0e6d",
+  "name" : "Removing the book on ID.",
+  "fullName" : "test_books.TestTasks#test_delete_book_by_id",
+  "historyId" : "7ba85bee00eac1ee8f4f2dcdf16083d1",
+  "time" : {
+    "start" : 1718912988540,
+    "stop" : 1718912988541,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "table",
+    "time" : {
+      "start" : 1718912988540,
+      "stop" : 1718912988540,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1718912988477,
+      "stop" : 1718912988495,
+      "duration" : 18
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "SELECT BookID, Title, Author, Year FROM books;",
+      "time" : {
+        "start" : 1718912988540,
+        "stop" : 1718912988540,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "DELETE FROM books WHERE BookID",
+      "time" : {
+        "start" : 1718912988540,
+        "stop" : 1718912988540,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT BookID, Title, Author, Year FROM books;",
+      "time" : {
+        "start" : 1718912988541,
+        "stop" : 1718912988541,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "table::0",
+    "time" : {
+      "start" : 1718912988542,
+      "stop" : 1718912988542,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "Sqlite task."
+  }, {
+    "name" : "suite",
+    "value" : "test_books"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTasks"
+  }, {
+    "name" : "host",
+    "value" : "fv-az1144-82"
+  }, {
+    "name" : "thread",
+    "value" : "2262-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_books"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b8d1916ba7d0e6d.json",
+  "parameterValues" : [ ]
+}
