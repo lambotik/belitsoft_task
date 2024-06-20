@@ -1,0 +1,71 @@
+[ {
+  "uid" : "f80762a45f07e51e",
+  "name" : "Updating information about the book on ID.",
+  "time" : {
+    "start" : 1718913079256,
+    "stop" : 1718913079258,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97bafbe0f822c4ce",
+  "name" : "Delete all information from the table.",
+  "time" : {
+    "start" : 1718913079264,
+    "stop" : 1718913079267,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d349ce0a11b5a80e",
+  "name" : "Add books.",
+  "time" : {
+    "start" : 1718913079205,
+    "stop" : 1718913079228,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "514c93adcd0fbcf8",
+  "name" : "Obtaining information about the book on ID (negative).",
+  "time" : {
+    "start" : 1718913079254,
+    "stop" : 1718913079254,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cb15ceb0b3717d6",
+  "name" : "Obtaining information about the book on ID (positive).",
+  "time" : {
+    "start" : 1718913079251,
+    "stop" : 1718913079252,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "799291be4f3d8852",
+  "name" : "Removing the book on ID.",
+  "time" : {
+    "start" : 1718913079260,
+    "stop" : 1718913079262,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d2908508083f386",
+  "name" : "Obtaining a list of all books.",
+  "time" : {
+    "start" : 1718913079248,
+    "stop" : 1718913079249,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

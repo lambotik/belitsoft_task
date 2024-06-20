@@ -1,0 +1,142 @@
+{
+  "d0858df18f414ef1657310918ec738eb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d349ce0a11b5a80e",
+      "reportUrl" : "https://lambotik.github.io/belitsoft_task/4//#testresult/d349ce0a11b5a80e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718913079205,
+        "stop" : 1718913079228,
+        "duration" : 23
+      }
+    } ]
+  },
+  "496c48ed2d5e34020aa3cfc788f969d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "514c93adcd0fbcf8",
+      "reportUrl" : "https://lambotik.github.io/belitsoft_task/4//#testresult/514c93adcd0fbcf8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718913079254,
+        "stop" : 1718913079254,
+        "duration" : 0
+      }
+    } ]
+  },
+  "003a291726bcdb7642e35a5deb97675f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "97bafbe0f822c4ce",
+      "reportUrl" : "https://lambotik.github.io/belitsoft_task/4//#testresult/97bafbe0f822c4ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718913079264,
+        "stop" : 1718913079267,
+        "duration" : 3
+      }
+    } ]
+  },
+  "7ba85bee00eac1ee8f4f2dcdf16083d1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "799291be4f3d8852",
+      "reportUrl" : "https://lambotik.github.io/belitsoft_task/4//#testresult/799291be4f3d8852",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718913079260,
+        "stop" : 1718913079262,
+        "duration" : 2
+      }
+    } ]
+  },
+  "2e68677b9d9d04cb6e2c1c15220c7da0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1cb15ceb0b3717d6",
+      "reportUrl" : "https://lambotik.github.io/belitsoft_task/4//#testresult/1cb15ceb0b3717d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718913079251,
+        "stop" : 1718913079252,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f8f62ab3e763be9e1bbd3443be6e3813" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d2908508083f386",
+      "reportUrl" : "https://lambotik.github.io/belitsoft_task/4//#testresult/7d2908508083f386",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718913079248,
+        "stop" : 1718913079249,
+        "duration" : 1
+      }
+    } ]
+  },
+  "b0085ccb508d473a4b5b2daf0538ce41" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f80762a45f07e51e",
+      "reportUrl" : "https://lambotik.github.io/belitsoft_task/4//#testresult/f80762a45f07e51e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1718913079256,
+        "stop" : 1718913079258,
+        "duration" : 2
+      }
+    } ]
+  }
+}

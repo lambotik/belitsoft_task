@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://lambotik.github.io/belitsoft_task",
+  "buildOrder" : 4,
+  "buildName" : "GitHub Actions Run #9603487388",
+  "buildUrl" : "https://github.com/lambotik/belitsoft_task/actions/runs/9603487388",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://lambotik.github.io/belitsoft_task/4/"
+} ]
