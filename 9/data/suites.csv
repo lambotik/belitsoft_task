@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 20 20:32:12 GMT 2024","Thu Jun 20 20:32:12 GMT 2024","4","","test_books","TestTasks","","","Delete all information from the table.",""
+"passed","Thu Jun 20 20:32:12 GMT 2024","Thu Jun 20 20:32:12 GMT 2024","3","","test_books","TestTasks","","","Removing the book on ID.",""
+"passed","Thu Jun 20 20:32:12 GMT 2024","Thu Jun 20 20:32:12 GMT 2024","1","","test_books","TestTasks","","","Obtaining a list of all books.",""
+"passed","Thu Jun 20 20:32:12 GMT 2024","Thu Jun 20 20:32:12 GMT 2024","1","","test_books","TestTasks","","","Obtaining information about the book on ID (positive).",""
+"passed","Thu Jun 20 20:32:12 GMT 2024","Thu Jun 20 20:32:12 GMT 2024","3","","test_books","TestTasks","","","Updating information about the book on ID.",""
+"passed","Thu Jun 20 20:32:12 GMT 2024","Thu Jun 20 20:32:12 GMT 2024","25","","test_books","TestTasks","","","Add books.",""
+"passed","Thu Jun 20 20:32:12 GMT 2024","Thu Jun 20 20:32:12 GMT 2024","1","","test_books","TestTasks","","","Obtaining information about the book on ID (negative).",""
