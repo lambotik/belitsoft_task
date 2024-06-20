@@ -1,0 +1,22 @@
+[ {
+  "values" : [ "main" ],
+  "name" : "GIT_BRANCH"
+}, {
+  "values" : [ "b3ea613c292dbe248d79f7c5b4a31af4a214af07" ],
+  "name" : "GIT_COMMIT_ID"
+}, {
+  "values" : [ "Update: Added: test-run.yml" ],
+  "name" : "GIT_COMMIT_MESSAGE"
+}, {
+  "values" : [ "lambotik1988@gmail.com" ],
+  "name" : "GIT_COMMIT_AUTHOR_NAME"
+}, {
+  "values" : [ "2024-06-20 22:56:17 +0300" ],
+  "name" : "GIT_COMMIT_TIME"
+}, {
+  "values" : [ "126.0.6478.61" ],
+  "name" : "CHROME_VERSION"
+}, {
+  "values" : [ "https://lambotik.github.io/belitsoft_task" ],
+  "name" : "URL"
+} ]

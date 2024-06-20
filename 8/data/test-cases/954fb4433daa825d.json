@@ -1,0 +1,458 @@
+{
+  "uid" : "954fb4433daa825d",
+  "name" : "Add books.",
+  "fullName" : "test_books.TestTasks#test_check_book_is_added",
+  "historyId" : "d0858df18f414ef1657310918ec738eb",
+  "time" : {
+    "start" : 1718914115112,
+    "stop" : 1718914115126,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1718914115088,
+      "stop" : 1718914115106,
+      "duration" : 18
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "table",
+    "time" : {
+      "start" : 1718914115106,
+      "stop" : 1718914115111,
+      "duration" : 5
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "INSERT book INTO  table \"books\"",
+      "time" : {
+        "start" : 1718914115113,
+        "stop" : 1718914115113,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT Title, Author, Year FROM books",
+      "time" : {
+        "start" : 1718914115114,
+        "stop" : 1718914115114,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "INSERT book INTO  table \"books\"",
+      "time" : {
+        "start" : 1718914115114,
+        "stop" : 1718914115114,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT Title, Author, Year FROM books",
+      "time" : {
+        "start" : 1718914115115,
+        "stop" : 1718914115115,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "INSERT book INTO  table \"books\"",
+      "time" : {
+        "start" : 1718914115116,
+        "stop" : 1718914115116,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT Title, Author, Year FROM books",
+      "time" : {
+        "start" : 1718914115116,
+        "stop" : 1718914115116,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "INSERT book INTO  table \"books\"",
+      "time" : {
+        "start" : 1718914115117,
+        "stop" : 1718914115117,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT Title, Author, Year FROM books",
+      "time" : {
+        "start" : 1718914115118,
+        "stop" : 1718914115118,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "INSERT book INTO  table \"books\"",
+      "time" : {
+        "start" : 1718914115118,
+        "stop" : 1718914115118,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT Title, Author, Year FROM books",
+      "time" : {
+        "start" : 1718914115119,
+        "stop" : 1718914115119,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "INSERT book INTO  table \"books\"",
+      "time" : {
+        "start" : 1718914115120,
+        "stop" : 1718914115120,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT Title, Author, Year FROM books",
+      "time" : {
+        "start" : 1718914115120,
+        "stop" : 1718914115120,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "INSERT book INTO  table \"books\"",
+      "time" : {
+        "start" : 1718914115121,
+        "stop" : 1718914115121,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT Title, Author, Year FROM books",
+      "time" : {
+        "start" : 1718914115122,
+        "stop" : 1718914115122,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "INSERT book INTO  table \"books\"",
+      "time" : {
+        "start" : 1718914115122,
+        "stop" : 1718914115122,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT Title, Author, Year FROM books",
+      "time" : {
+        "start" : 1718914115123,
+        "stop" : 1718914115123,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "INSERT book INTO  table \"books\"",
+      "time" : {
+        "start" : 1718914115123,
+        "stop" : 1718914115123,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT Title, Author, Year FROM books",
+      "time" : {
+        "start" : 1718914115124,
+        "stop" : 1718914115124,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "INSERT book INTO  table \"books\"",
+      "time" : {
+        "start" : 1718914115125,
+        "stop" : 1718914115125,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "SELECT Title, Author, Year FROM books",
+      "time" : {
+        "start" : 1718914115125,
+        "stop" : 1718914115125,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 20,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "table::0",
+    "time" : {
+      "start" : 1718914115126,
+      "stop" : 1718914115126,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "Sqlite task."
+  }, {
+    "name" : "suite",
+    "value" : "test_books"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTasks"
+  }, {
+    "name" : "host",
+    "value" : "fv-az1567-380"
+  }, {
+    "name" : "thread",
+    "value" : "2255-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_books"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "115d407b8f729436",
+        "reportUrl" : "https://lambotik.github.io/belitsoft_task/7//#testresult/115d407b8f729436",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913452158,
+          "stop" : 1718913452179,
+          "duration" : 21
+        }
+      }, {
+        "uid" : "26be706fff445444",
+        "reportUrl" : "https://lambotik.github.io/belitsoft_task/6//#testresult/26be706fff445444",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913339222,
+          "stop" : 1718913339247,
+          "duration" : 25
+        }
+      }, {
+        "uid" : "aaef5536f11af2da",
+        "reportUrl" : "https://lambotik.github.io/belitsoft_task/5//#testresult/aaef5536f11af2da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913191562,
+          "stop" : 1718913191577,
+          "duration" : 15
+        }
+      }, {
+        "uid" : "d349ce0a11b5a80e",
+        "reportUrl" : "https://lambotik.github.io/belitsoft_task/4//#testresult/d349ce0a11b5a80e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1718913079205,
+          "stop" : 1718913079228,
+          "duration" : 23
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "954fb4433daa825d.json",
+  "parameterValues" : [ ]
+}
