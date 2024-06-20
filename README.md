@@ -1,4 +1,4 @@
-# Development of automated tests for the Test task billing
+# Development of automated tests for the Test task Belitsoft
 
 ## Description of the project
 
